@@ -2,6 +2,7 @@
 //IZMENENIE11111
 //
 //
+//buuuuuu
 //ku-ku
 
 #include "stdafx.h"
