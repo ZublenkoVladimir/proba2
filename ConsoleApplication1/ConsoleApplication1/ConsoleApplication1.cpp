@@ -1,6 +1,6 @@
 // Firma.cpp: определяет точку входа для консольного приложения.
 //IZMENENIE11111
-//
+//nnnnnnnnn
 
 #include "stdafx.h"
 #include <iostream>
