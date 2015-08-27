@@ -2,8 +2,9 @@
 //IZMENENIE11111
 //nnnnnnnnn
 //jjjjljlkjlk
-//iii
-///jjjjjjjjjjj
+//,,,,,,,,,,,,,,,,,,,,,
+///joijoij
+/////ggfy
 #include "stdafx.h"
 #include <iostream>
 #include <time.h>
