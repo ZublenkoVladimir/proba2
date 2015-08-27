@@ -2,6 +2,9 @@
 //IZMENENIE11111
 //nnnnnnnnn
 //jjjjljlkjlk
+
+
+/////ggfy
 #include "stdafx.h"
 #include <iostream>
 #include <time.h>
