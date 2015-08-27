@@ -2,7 +2,7 @@
 //IZMENENIE11111
 //nnnnnnnnn
 //jjjjljlkjlk
-
+//,,,,,,,,,,,,,,,,,,,,,
 ///joijoij
 /////ggfy
 #include "stdafx.h"
